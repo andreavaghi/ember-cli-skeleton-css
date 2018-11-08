@@ -1,6 +1,6 @@
 # ember-cli-skeleton-css
 
-This README outlines the details of collaborating on this Ember addon.
+Ember addon for Skeleton CSS (http://www.getskeleton.com).
 
 ## Installation
 

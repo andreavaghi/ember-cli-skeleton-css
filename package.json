@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-skeleton-css",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.0",
+  "description": "Ember-cli addon for Skeleton CSS.",
   "keywords": [
     "ember-addon"
   ],
